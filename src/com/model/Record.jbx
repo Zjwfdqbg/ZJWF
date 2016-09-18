@@ -1,0 +1,13 @@
+[PropertyInfo]
+balance,double,false,false,balance,balance,true,<default>
+beginTime,String,false,false, , ,true,<default>
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+cardId,String,false,false,CardId,CardId,true,<default>
+computerId,String,false,false,ComputerId,ComputerId,true,<default>
+endTime,String,false,false, , ,true,<default>
+id,int,false,false,Id,Id,true,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,12 @@
+[PropertyInfo]
+a,javax.swing.JLabel,false,false, , ,false,<default>
+btnDeng,javax.swing.JButton,false,false, , ,false,<default>
+btnTui,javax.swing.JButton,false,false, , ,false,<default>
+CardName,javax.swing.JTextField,false,false, , ,false,<default>
+Cardpassword,javax.swing.JPasswordField,false,false, , ,false,<default>
+JLabel2,javax.swing.JLabel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

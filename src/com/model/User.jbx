@@ -1,0 +1,10 @@
+[PropertyInfo]
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+username,String,false,false,Username,Username,true,<default>
+password,String,false,false,password,password,true,<default>
+popedomId,int,false,false,popedomId,popedomId,true,<default>
+[IconNames]
+
+
+
+

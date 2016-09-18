@@ -1,0 +1,59 @@
+[PropertyInfo]
+arr,java.util.ArrayList,false,false, , ,false,<default>
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+btnCha,javax.swing.JToggleButton,false,false, , ,false,<default>
+btnShan,javax.swing.JButton,false,false, , ,false,<default>
+btnTian,javax.swing.JButton,false,false, , ,false,<default>
+cardLayout1,java.awt.CardLayout,false,false, , ,false,<default>
+gen,javax.swing.tree.DefaultMutableTreeNode,false,false, , ,false,<default>
+JButton1,javax.swing.JButton,false,false, , ,false,<default>
+JButton2,javax.swing.JButton,false,false, , ,false,<default>
+JButton3,javax.swing.JButton,false,false, , ,false,<default>
+JButton4,javax.swing.JButton,false,false, , ,false,<default>
+JButton5,javax.swing.JButton,false,false, , ,false,<default>
+JButton6,javax.swing.JButton,false,false, , ,false,<default>
+JButton7,javax.swing.JButton,false,false, , ,false,<default>
+JButton8,javax.swing.JButton,false,false, , ,false,<default>
+JButton9,javax.swing.JButton,false,false, , ,false,<default>
+JLabel1,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel10,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel11,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel12,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel13,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel2,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel3,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel4,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel5,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel6,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel7,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel8,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel9,javax.swing.JLabel,false,false, , ,false,<default>
+JPanel1,javax.swing.JPanel,false,false, , ,false,<default>
+JPanel2,javax.swing.JPanel,false,false, , ,false,<default>
+JPanel3,javax.swing.JPanel,false,false, , ,false,<default>
+JPanel4,javax.swing.JPanel,false,false, , ,false,<default>
+JPanel5,javax.swing.JPanel,false,false, , ,false,<default>
+JPanel6,javax.swing.JPanel,false,false, , ,false,<default>
+JPanel7,javax.swing.JPanel,false,false, , ,false,<default>
+JScrollPane1,javax.swing.JScrollPane,false,false, , ,false,<default>
+JSplitPane1,javax.swing.JSplitPane,false,false, , ,false,<default>
+JTree1,javax.swing.JTree,false,false, , ,false,<default>
+txtBei,javax.swing.JTextField,false,false, , ,false,<default>
+txtBeiZhu,javax.swing.JTextField,false,false, , ,false,<default>
+txtId,javax.swing.JTextField,false,false, , ,false,<default>
+txtID,javax.swing.JTextField,false,false, , ,false,<default>
+txtId1,javax.swing.JTextField,false,false, , ,false,<default>
+txtJBei,javax.swing.JTextField,false,false, , ,false,<default>
+txtJID,javax.swing.JTextField,false,false, , ,false,<default>
+txtJQBei,javax.swing.JTextField,false,false, , ,false,<default>
+txtJQID,javax.swing.JTextField,false,false, , ,false,<default>
+txtJQZhuang,javax.swing.JTextField,false,false, , ,false,<default>
+txtJZhuang,javax.swing.JTextField,false,false, , ,false,<default>
+txtZhuan,javax.swing.JTextField,false,false, , ,false,<default>
+txtZhuangTai,javax.swing.JTextField,false,false, , ,false,<default>
+weiZhi,int,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

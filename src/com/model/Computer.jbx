@@ -1,0 +1,9 @@
+[PropertyInfo]
+id,String,false,false,id,id,true,<default>
+notes,String,false,false,notes,notes,true,<default>
+onUse,int,false,false,OnUse,OnUse,true,<default>
+[IconNames]
+
+
+
+

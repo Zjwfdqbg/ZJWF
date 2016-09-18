@@ -1,0 +1,11 @@
+[PropertyInfo]
+balance,double,false,false,balance,balance,true,<default>
+id,String,false,false,Id,Id,true,<default>
+memberId,String,false,false, , ,true,<default>
+MemberId,String,false,false,userId,userId,true,<default>
+password,String,false,false,password,password,true,<default>
+[IconNames]
+
+
+
+

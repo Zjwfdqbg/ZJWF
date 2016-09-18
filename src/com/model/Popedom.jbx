@@ -1,0 +1,9 @@
+[PropertyInfo]
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+ID,int,false,false,ID,ID,true,<default>
+popedomName,String,false,false,popedomName,popedomName,true,<default>
+[IconNames]
+
+
+
+

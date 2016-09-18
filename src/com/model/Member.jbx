@@ -1,0 +1,12 @@
+[PropertyInfo]
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+id,String,false,false,Id,Id,true,<default>
+myName,String,false,false,MyName,MyName,true,<default>
+birthDate,String,false,false,BirthDate,BirthDate,true,<default>
+identitycard,String,false,false,identitycard,identitycard,true,<default>
+phone,String,false,false,Phone,Phone,true,<default>
+[IconNames]
+
+
+
+
